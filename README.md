@@ -5,7 +5,7 @@
 
 <p align="center">
 
-  <img src=Telegraph_files/68e56d5e035f630a3b863.png>
+  <img src=images/68e56d5e035f630a3b863.png>
 <br><br>
 </b>			
 <b align="center">
@@ -20,7 +20,7 @@
 
 <p align="center">
 
-  <img src=Telegraph_files/cba4314948bc9a2c65e5e.png>
+  <img src=images/cba4314948bc9a2c65e5e.png>
 <br><br>
 </b>			
 <b align="center">
@@ -37,7 +37,7 @@
 \- термостат LM56 (считывает температуру в теплице, а также посылает сигналы о превышении двух заданных порогов температур: минимальной и максимальной, пороги также задаются с помощью него);
 <p align="center">
 
-  <img src=Telegraph_files/802890a8ca9f32f314ca1.png>
+  <img src=images/802890a8ca9f32f314ca1.png>
 <br><br>
 </b>			
 <b align="center">
@@ -60,7 +60,7 @@
 
 <p align="center">
 
-  <img src=Telegraph_files/ee6b03e5bb55fd30207fe.png>
+  <img src=images/ee6b03e5bb55fd30207fe.png>
 <br><br>
 </b>			
 <b align="center">
@@ -75,7 +75,7 @@
 
 <p align="center">
 
-  <img src=Telegraph_files/e5e73499dc0e820fed61d.png>
+  <img src=images/e5e73499dc0e820fed61d.png>
 <br><br>
 </b>			
 <b align="center">
@@ -96,7 +96,7 @@
 
 <p align="center">
 
-  <img src=Telegraph_files/edf5191f246140597756b.png>
+  <img src=images/edf5191f246140597756b.png>
 <br><br>
 </b>			
 <b align="center">
@@ -113,7 +113,7 @@
 
 <p align="center">
 
-  <img src=Telegraph_files/9354988c156f4f2a3da19.png>
+  <img src=images/9354988c156f4f2a3da19.png>
 <br><br>
 </b>			
 <b align="center">
@@ -127,7 +127,7 @@
 
 <p align="center">
 
-  <img src=Telegraph_files/0c5b063fb1a370ce9acf3.png>
+  <img src=images/0c5b063fb1a370ce9acf3.png>
 <br><br>
 </b>			
 <b align="center">
@@ -145,7 +145,7 @@
 
 <p align="center">
 
-  <img src=Telegraph_files/026235524a9c357f3f992.png>
+  <img src=images/026235524a9c357f3f992.png>
 <br><br>
 </b>			
 <b align="center">
@@ -157,7 +157,7 @@
 
 <p align="center">
 
-  <img src=Telegraph_files/b3500f73a761e5372d5c9.png>
+  <img src=images/b3500f73a761e5372d5c9.png>
 <br><br>
 </b>			
 <b align="center">
@@ -169,7 +169,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Внешний вид платы в 3D представлен ниже
 <p align="center">
 
-  <img src=Telegraph_files/2cef08723b9e9ca8e97e0.png>
+  <img src=images/2cef08723b9e9ca8e97e0.png>
 <br><br>
 </b>			
 <b align="center">
